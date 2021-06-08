@@ -1,4 +1,4 @@
-#calcular el area y el perimetro del triangulo 
+#area y el perimetro del triangulo 
 base = float(input("ingresa la base del triangulo: \t"))
 altura = float(input("ingresa la altura del triangulo: \t"))
 
