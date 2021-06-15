@@ -9,7 +9,7 @@ print(type(profe))
 print(f"el nombre del profe es {profe} y su edad es {edad}")
 
 #ejemplo de suma
-n1=input("ingrese el numero \t")
+n1=input("ingrese el numero \n")
 # n1=int(input("ingrese el numero "))
 
 n2=input("ingrese el numero \t")
